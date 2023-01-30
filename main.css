@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Kanit&display=swap');
+
+body {
+    height: 2400px;
+    font-family: 'Inter';
+    background-color: rgba(241, 241, 241, 1);
+}
+.logo {
+    display: flex;
+    flex-direction: column;
+    margin-left: 330px;
+    width: 80%;
+}
+.logo1 {
+    display: flex;
+    height: 70px;
+}
+.logo p {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 22px;
+}
+.logo2 {
+    display: flex;
+    height: 215px;
+    margin-top: 45px;
+}
+.logo2 h1 {
+    font-family: 'Kanit';
+    font-weight: 500;
+    font-size: 65px;
+}
+#Newslist {
+    margin-top: 50px;
+}
+.news {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    width: 80%; 
+}
+.news-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    width: 755px;
+    height: 274px;
+    margin-right: 500px;
+}
+.infotop img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.infotop {
+    display: flex;
+    align-items: center;
+}
+.infotop p {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 18px;
+    margin-right: 3px;
+}
+.data {
+    color: rgb(92, 86, 86);
+}
+#title {
+    width: 693px;
+    height: 34px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 34px;
+}
+#body {
+    width: 890px;
+    height: 44px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 30px;
+}
+.infobottom {
+    display: flex;
+    align-items: center;
+    margin-top: 130px;
+}
+.infobottom button {
+    width: 130px;
+    height: 40px;
+    margin-right: 12px;
+    background-color: rgba(8, 30, 52, 0.12);
+    color: rgba(8, 30, 52, 1);
+    border: none;
+    border-radius: 100px;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+}
+.infobottom p {
+    font-size: 18px;
+    margin-right: 10px;
+    color: rgb(92, 86, 86);
+}
+#news-img {
+    width: 365px;
+    height: 365px;
+    border-radius: 4px;
+}
+
+hr {
+    width: 71%;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 100px;
+}
+

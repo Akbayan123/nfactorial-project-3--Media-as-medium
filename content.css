@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Kanit&display=swap');
+body {
+    font-family: 'Inter';
+    background-color: rgba(241, 241, 241, 1);
+}
+.logo {
+    margin: auto;
+    width: 80%;
+}
+.logo p {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+}
+.logo img {
+    margin-top: 65px;
+    width: 27px;
+    height: 27px;
+}
+.infotop {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 130px;
+}
+.author-logo {
+    display: flex;
+    align-items: center;
+}
+.img1 {
+    width: 68px;
+    height: 68px;
+    margin-right: 20px;
+}
+.name {
+    font-size: 20px;
+}
+.img2 {
+    width: 140px;
+    height: 37px;   
+}
+.data {
+    color: rgb(92, 86, 86);
+}
+#title {
+    margin: auto;
+    width: 80%;
+    height: 34px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 34px;
+    margin-top: 50px;
+}
+#body {
+    margin: auto;
+    width: 80%;
+    margin-top: 30px;
+    font-size: 21px;
+    line-height: 22px;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image img {
+    display: flex;
+    width: 1465px;
+    height: 580px;
+    margin-top: 100px;
+}
+.textname {
+    margin: auto;
+    width: 80%;
+    font-size: 30px;
+    margin-top: 70px;
+}
+.paragraph {
+    margin: auto;
+    margin-top: 30px;
+    font-size: 21px;
+    width: 80%;
+    font-weight: 400;
+    line-height: 36px;
+}
+.image2 {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 80px;
+}
+#actions {
+   width: 130px;
+   height: 28px;
+}
+#bookmark {
+   margin-left: 1300px;
+    width: 28px;
+    height: 28px;
+}
